@@ -1,0 +1,12 @@
+Spring JDBC helps in auotmating all the process and steps we implement manually
+we have important component in Spring JDBC called:JDBC Template
+which helps in connect with database and fire queries,process data and get output
+and also we have DataSource which helps in making multiple requests for data in a single connection instead of creating new connection for each request
+here we have add h2 database as a dependency and h2 is an in memory database
+the only disadvantage is we will loose the data when we close the application
+h2 database also provides JDBC
+
+
+In this project we have added JDBC API and H2 DataBase as Dependencies
+
+
